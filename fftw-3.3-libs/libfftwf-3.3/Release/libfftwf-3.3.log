@@ -1,0 +1,9 @@
+﻿Build started 6/15/2014 11:47:24 AM.
+Project "C:\temp\fftw-3.3.2\fftw-3.3-libs\libfftwf-3.3\libfftwf-3.3.vcxproj" on node 2 (clean target(s)).
+_PrepareForClean:
+  Deleting file "Release\libfftwf-3.3.lastbuildstate".
+Done Building Project "C:\temp\fftw-3.3.2\fftw-3.3-libs\libfftwf-3.3\libfftwf-3.3.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.92
